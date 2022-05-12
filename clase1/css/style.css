@@ -9,14 +9,24 @@ body {
 }
 
 a {
-    color: blueviolet;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid #1A5730;
+    border-radius: 3rem;
+    margin: 30px;
+    padding: 5px;
+    background: #00D64F;
+    font-weight: bold;
 }
 
 h2 {
     border: 5px solid salmon;
     text-align: center;
     border-radius: 5rem;
-    
+
+}
+
+.fotos {
+    width: 500px;
+    height: 400px;
 }
